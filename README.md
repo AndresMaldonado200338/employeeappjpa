@@ -18,7 +18,7 @@ Para ejecutar el proyecto, necesitas:
 ## Ejecución del proyecto
 1. Descarga el proyecto y asegúrate de que está en una ubicación adecuada.
 2. Abre el proyecto en tu IDE de preferencia
-3. Ejecuta el archivo principal `EmployeeappjpaApplication.java` ubicado en `src/main/java/edu/uptc/swiiemployeeappjpa`.
+3. Ejecuta el archivo principal `EmployeeappjpaApplication.java` ubicado en `src/main/java/edu/uptc/swii/employeeappjpa`.
 La aplicación se ejecutará en el puerto 8080, por lo tanto en tu navegador debes entrar con la url `localhost:8080`
 
 ## Colaboradores
